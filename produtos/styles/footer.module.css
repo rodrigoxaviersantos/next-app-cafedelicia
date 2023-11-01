@@ -1,0 +1,12 @@
+/* footer.module.css */
+
+.footer {
+    background-color: #363432;
+    color: #fff; /* Cor do texto no rodapé */
+    padding: 20px; /* Espaçamento interno do rodapé */
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
